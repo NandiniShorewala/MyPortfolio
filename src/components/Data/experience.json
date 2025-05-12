@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Custom Software Engineering Analyst",
+    "organisation": "Accenture",
+    "startDate": "Jun, 2024-",
+    "endDate": "Present",
+    "location": "Kolkata ,India",
+    "experiences": [
+      "Worked on Front end technologies",
+      "Worked on Power BI"
+    ],
+    "imageSrc": "company/Accenture.png"
+  },
+  {
+   
+    "id":2,
+    "role": "Custom Software Engineering Associate",
+    "organisation": "Accenture",
+    "startDate": "Dec, 2022-",
+    "endDate": "May,2024",
+    "location": "Kolkata ,India",
+    "experiences": [
+      "Worked on SharePoint",
+      "Worked on Power BI"
+    ],
+    "imageSrc": "company/Accenture.png"
+  }
+]

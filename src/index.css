@@ -100,7 +100,12 @@ align-items: center;
 }
 
 /* Experience*/
-
+/* .container .ex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+} */
 .ex {
   width:900px;
   
@@ -120,6 +125,16 @@ box-shadow: var(--box-shadow);
 
 .ex img{
   width:150px;
+}
+
+@media (max-width:849) {
+  body .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 100px;
+  }
 }
 /* Skills*/
 .skills
